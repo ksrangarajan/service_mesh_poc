@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: services-app
-        image: rakeshram909/services:v1
+        image: <dockerhubuserid>/services:v1
         command: ["gunicorn", "--bind", "0.0.0.0:5000", "runner:app"]
         imagePullPolicy: Always
         ports:
