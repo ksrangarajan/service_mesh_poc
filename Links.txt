@@ -11,6 +11,6 @@ https://www.google.com/search?q=credit+model+system+architecture&tbm=isch&ved=2a
 
 
 https://towardsdatascience.com/predicting-loan-repayment-5df4e0023e92
-
+https://medium.com/@Xavient/introduction-to-microservices-26e59c9acb5
 
 https://relevant.software/blog/buy-now-pay-later-software-development/#Buy_Now_Pay_Later_how_it_works
