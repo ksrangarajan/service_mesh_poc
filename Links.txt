@@ -14,3 +14,15 @@ https://towardsdatascience.com/predicting-loan-repayment-5df4e0023e92
 https://medium.com/@Xavient/introduction-to-microservices-26e59c9acb5
 
 https://relevant.software/blog/buy-now-pay-later-software-development/#Buy_Now_Pay_Later_how_it_works
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Product Recommendation System using Machine Learning
+
+https://www.netguru.com/blog/product-recommendation-machine-learning
+http://blog.ub.ac.id/nikeastria/files/2012/04/A-hybrid-online-product-recommendation-system-Combining-implicit.pdf
+
+https://www.altexsoft.com/blog/demand-forecasting-methods-using-machine-learning/
+https://medium.com/@fenjiro/machine-learning-and-it-infrastructure-management-automation-4c4c06e213b9
+https://www.hindawi.com/journals/cin/2017/4873459/
